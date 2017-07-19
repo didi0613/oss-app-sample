@@ -9,6 +9,8 @@ import { Router, browserHistory } from "react-router";
 import { createStore } from "redux";
 import { Provider } from "react-redux";
 import rootReducer from "./reducers";
+
+import "./styles/main.scss";
 //
 
 //
